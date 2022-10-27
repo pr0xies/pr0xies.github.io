@@ -3,13 +3,13 @@
 # Anyways here is all the proxy links:
 
 # Holy Unblocker
-[(https://ycrgv.org/)]
-[(https://zlxrlr.org/)]
-[(https://ofotmdxm.org/)]
-[(https://uxvvykaf.org/)]
-[(https://zqagifq.org/)]
-[(https://mrbxp.org/)]
-[(https://flrnsd.org/)]
+[https://ycrgv.org](https://ycrgv.org)
+[https://zlxrlr.org](https://zlxrlr.org)
+[https://ofotmdxm.org](https://ofotmdxm.org)
+[https://uxvvykaf.org](https://uxvvykaf.org)
+[https://zqagifq.org](https://zqagifq.org)
+[https://mrbxp.org](https://mrbxp.org)
+[https://dnsttkh.org](https://dnsttkh.org)
 [(https://dnsttkh.org/)]
 [(https://hdbvxb.org/)]
 [(https://website-aio-e9x.koyeb.app/)]
