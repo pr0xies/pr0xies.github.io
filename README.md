@@ -1,18 +1,17 @@
 # Litterally every unblocked proxy for northside
-# If your not from northside leave (jk)
 
-Anyways here is all the proxy links:
+# Anyways here is all the proxy links:
 
 # Holy Unblocker
-https://ycrgv.org
-https://zlxrlr.org
-https://ofotmdxm.org
-https://uxvvykaf.org
-https://zqagifq.org
-https://mrbxp.org
-https://flrnsd.org
-https://dnsttkh.org
-https://hdbvxb.org
+https://ycrgv.org/
+https://zlxrlr.org/
+https://ofotmdxm.org/
+https://uxvvykaf.org/
+https://zqagifq.org/
+https://mrbxp.org/
+https://flrnsd.org/
+https://dnsttkh.org/
+https://hdbvxb.org/
 https://website-aio-e9x.koyeb.app/
 
 # Rammerhead
