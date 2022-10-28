@@ -1,36 +1,33 @@
 # Litterally every unblocked proxy for northside
 
-# Anyways here is all the proxy links:
+## Anyways here is all the proxy links:
 
-# Holy Unblocker
-[https://ycrgv.org](https://ycrgv.org)
-[https://zlxrlr.org](https://zlxrlr.org)
-[https://ofotmdxm.org](https://ofotmdxm.org)
-[https://uxvvykaf.org](https://uxvvykaf.org)
-[https://zqagifq.org](https://zqagifq.org)
-[https://mrbxp.org](https://mrbxp.org)
-[https://dnsttkh.org](https://dnsttkh.org)
-[(https://dnsttkh.org/)]
-[(https://hdbvxb.org/)]
-[(https://website-aio-e9x.koyeb.app/)]
+### Holy Unblocker
+[Link 1](https://ycrgv.org)
+[Link 2](https://zlxrlr.org)
+[Link 3](https://ofotmdxm.org)
+[Link 4](https://uxvvykaf.org)
+[Link 5](https://zqagifq.org)
+[Link 6](https://mrbxp.org)
+[Link 7](https://dnsttkh.org)
+[Link 8](https://dnsttkh.org/)
+[Link 9](https://hdbvxb.org/)
+[Link 10](https://website-aio-e9x.koyeb.app/)
 
-# Rammerhead
-[(https://r.chicagoacrobatics.gq/)]
-[(https://browser.rammerhead.org/)]
-[(https://r.circularflow.ml/)]
-[(https://r.desmoscalculator.tk/)]
+### Rammerhead
+[Link 1](https://r.chicagoacrobatics.gq/)
+[Link 2](https://browser.rammerhead.org/)
+[Link 3](https://r.circularflow.ml/)
+[Link 4](https://r.desmoscalculator.tk)
 
-# CroxyProxy
-[(https://67.207.72.190/)]
+### CroxyProxy
+[Link 1](https://67.207.72.190/)
 
-# Taco Proxy
-[(https://7hb9r.sse.codesandbox.io/)]
+### Taco Proxy
+[Link 1](https://7hb9r.sse.codesandbox.io)
 
-# Zester Proxy (pretty much just croxyproxy)
-[(https://www.croxy.ml/)]
+### Zester Proxy (pretty much just croxyproxy)
+[Link 1](https://www.croxy.ml/)
 
 
-
-# IF YOU HAVE SUGGESTIONS SUBMIT THEM BELOW!
-
-[(https://forms.gle/bKFBvDJQWarykGT98)]
+### [Sumbit Suggestions Here!](https://forms.gle/bKFBvDJQWarykGT98)
